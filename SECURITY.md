@@ -1,11 +1,3 @@
-# Security Policy
-EvenlyParkour will be supported with no ads!
-## Supported Versions
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.1     | :white_check_mark: |
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-If, you get ads or viruses, please go to Issues tab of github, or on Discord. All of this will be accepted and no vetos. Updates will be reported in the changelog.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78b8eb54b08ba0744847c672fbdaf93e1d8b9b60f1ebf1c45c9cc50441d5e456
+size 453
