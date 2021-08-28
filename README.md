@@ -1,6 +1,3 @@
-# EvenlyParkour
-official releases of evenlyparkour the game
-Hello, this is the README file of EvenlyParkour!
-first, you might have to reinstall or install if you don't have it, Windows C++ Runtime, because apparantly my friend Person tried it and he needed that.
-then you move this to C:/(username)/Program Files
-after that, create a shortcut for the evenlyparkour(version).exe and move the shortcut to your startmenu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e029ae565eba9fc54d51912548aedf83f727199d5d0c86623ff2d1342c5c0a0
+size 425
