@@ -74,3 +74,4 @@ api-ms-win-crt-conio-l1-1-0.dll filter=lfs diff=lfs merge=lfs -text
 api-ms-win-crt-string-l1-1-0.dll filter=lfs diff=lfs merge=lfs -text
 api-ms-win-core-datetime-l1-1-0.dll filter=lfs diff=lfs merge=lfs -text
 api-ms-win-core-libraryloader-l1-1-0.dll filter=lfs diff=lfs merge=lfs -text
+EvenlyParkour.blend.exe filter=lfs diff=lfs merge=lfs -text
